@@ -1,0 +1,31 @@
+{
+  "name": "Nox Swift Packages",
+  "overview": "Nox Swift Packages",
+  "keywords": ["Theme", "iOS", "SwiftUI"],
+  "formatVersion": "1.0",
+  "revision": 2,
+  "generatedAt": "2025-12-31T03:08:33Z",
+  "packages": [
+    {
+      "url": "https://github.com/httpswift/swifter.git",
+      "summary": "轻量级 HTTP 服务器框架，用于建立本地 HTTP 服务分发 .mobileconfig",
+      "readmeURL": "https://github.com/httpswift/swifter/blob/master/README.md"
+    },
+    {
+      "url": "https://github.com/airbnb/lottie-ios.git",
+      "summary": "Lottie 动画库，用于实现精美的充电特效动画",
+      "readmeURL": "https://github.com/airbnb/lottie-ios/blob/master/README.md"
+    },
+    {
+      "url": "https://github.com/stephencelis/SQLite.swift.git",
+      "summary": "SQLite Swift 封装库，用于存储和索引数千个 App 的 URL Scheme",
+      "readmeURL": "https://github.com/stephencelis/SQLite.swift/blob/master/README.md"
+    },
+    {
+      "url": "https://github.com/onevcat/Kingfisher.git",
+      "summary": "高效的图片下载和缓存库，用于缓存从云端下载的精美壁纸",
+      "readmeURL": "https://github.com/onevcat/Kingfisher/blob/master/README.md"
+    }
+  ]
+}
+
