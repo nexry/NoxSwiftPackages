@@ -9,23 +9,130 @@
     {
       "url": "https://github.com/httpswift/swifter.git",
       "summary": "轻量级 HTTP 服务器框架，用于建立本地 HTTP 服务分发 .mobileconfig",
-      "readmeURL": "https://github.com/httpswift/swifter/blob/master/README.md"
+      "readmeURL": "https://github.com/httpswift/swifter/blob/master/README.md",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "manifests": {
+            "5.5": {
+              "toolsVersion": "5.5",
+              "packageName": "Swifter",
+              "targets": [
+                {
+                  "name": "Swifter",
+                  "moduleName": "Swifter"
+                }
+              ],
+              "products": [
+                {
+                  "name": "Swifter",
+                  "type": {
+                    "library": ["automatic"]
+                  },
+                  "targets": ["Swifter"]
+                }
+              ]
+            }
+          },
+          "defaultToolsVersion": "5.5"
+        }
+      ]
     },
     {
       "url": "https://github.com/airbnb/lottie-ios.git",
       "summary": "Lottie 动画库，用于实现精美的充电特效动画",
-      "readmeURL": "https://github.com/airbnb/lottie-ios/blob/master/README.md"
+      "readmeURL": "https://github.com/airbnb/lottie-ios/blob/master/README.md",
+      "versions": [
+        {
+          "version": "4.0.0",
+          "manifests": {
+            "5.5": {
+              "toolsVersion": "5.5",
+              "packageName": "Lottie",
+              "targets": [
+                {
+                  "name": "Lottie",
+                  "moduleName": "Lottie"
+                }
+              ],
+              "products": [
+                {
+                  "name": "Lottie",
+                  "type": {
+                    "library": ["automatic"]
+                  },
+                  "targets": ["Lottie"]
+                }
+              ]
+            }
+          },
+          "defaultToolsVersion": "5.5"
+        }
+      ]
     },
     {
       "url": "https://github.com/stephencelis/SQLite.swift.git",
       "summary": "SQLite Swift 封装库，用于存储和索引数千个 App 的 URL Scheme",
-      "readmeURL": "https://github.com/stephencelis/SQLite.swift/blob/master/README.md"
+      "readmeURL": "https://github.com/stephencelis/SQLite.swift/blob/master/README.md",
+      "versions": [
+        {
+          "version": "0.15.0",
+          "manifests": {
+            "5.5": {
+              "toolsVersion": "5.5",
+              "packageName": "SQLite",
+              "targets": [
+                {
+                  "name": "SQLite",
+                  "moduleName": "SQLite"
+                }
+              ],
+              "products": [
+                {
+                  "name": "SQLite",
+                  "type": {
+                    "library": ["automatic"]
+                  },
+                  "targets": ["SQLite"]
+                }
+              ]
+            }
+          },
+          "defaultToolsVersion": "5.5"
+        }
+      ]
     },
     {
       "url": "https://github.com/onevcat/Kingfisher.git",
       "summary": "高效的图片下载和缓存库，用于缓存从云端下载的精美壁纸",
-      "readmeURL": "https://github.com/onevcat/Kingfisher/blob/master/README.md"
+      "readmeURL": "https://github.com/onevcat/Kingfisher/blob/master/README.md",
+      "versions": [
+        {
+          "version": "7.0.0",
+          "manifests": {
+            "5.5": {
+              "toolsVersion": "5.5",
+              "packageName": "Kingfisher",
+              "targets": [
+                {
+                  "name": "Kingfisher",
+                  "moduleName": "Kingfisher"
+                }
+              ],
+              "products": [
+                {
+                  "name": "Kingfisher",
+                  "type": {
+                    "library": ["automatic"]
+                  },
+                  "targets": ["Kingfisher"]
+                }
+              ]
+            }
+          },
+          "defaultToolsVersion": "5.5"
+        }
+      ]
     }
   ]
 }
-
